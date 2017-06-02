@@ -1,10 +1,6 @@
 {
-  "name": "@ali/topSdk",
+  "name": "@uiyee/topSdk",
   "author":"xuteng.xt@alibaba-inc.com",
-  "contributors":[{
-    "name":"夏子省",
-    "email":"derek@runsasoft.com"
-  }],
   "version": "2.0.2",
   "description": "Taobao Open API & Message Client.",
   "keywords": [
@@ -24,8 +20,5 @@
   },
   "engines": {
     "node": ">=0.8"
-  },
-  "publishConfig": {
-    "registry": "http://registry.npm.alibaba-inc.com"
   }
 }
